@@ -10,8 +10,8 @@
 //#define RelayN          DN (Add extra devices if needed)
 
 
-#define WLAN_SSID       "Ansara act"             // Your SSID
-#define WLAN_PASS       "Ansaraact@1234"        // Your password
+#define WLAN_SSID       "WIFI-USERID"             // Your SSID
+#define WLAN_PASS       "WIFI-PASSWORD"        // Your password
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
